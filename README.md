@@ -6,7 +6,7 @@ contendo a documentação dos Painéis de Business Intelligence e os Indicadores
 ## 📁 Estrutura
 
 - `Dados Abertos/` — Repositório de Dados Abertos do Painéis do TJPA
-- `IEJud/` — Repositório de Documnentação do Índice de Eficiência Judiciária do TJPA - IEJud
+- `IEJud/` — Repositório de Documentação do Índice de Eficiência Judiciária do TJPA - IEJud
 - `Painéis/` — Repositório da Documentação relacionada aos Painéis publicados pelo DEPGE
 
 ## 🔗 Links úteis
