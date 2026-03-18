@@ -1,13 +1,12 @@
 # 📊 Painéis e Indicadores — TJPA
 
 Repositório público do **Departamento de Planejamento, Gestão e Estatística (DEPGE) do Tribunal de Justiça do Pará (TJPA)** 
-contendo a documentação dos Painéis de Business Intelligence e os Indicadores institucionais, além da hospedagem de Dados Abertos.
+contendo a documentação dos Indicadores institucionais, além da hospedagem de Dados Abertos.
 
 ## 📁 Estrutura
 
 - `Dados Abertos/` — Repositório de Dados Abertos do Painéis do TJPA
 - `IEJud/` — Repositório de Documentação do Índice de Eficiência Judiciária do TJPA - IEJud
-- `Painéis/` — Repositório da Documentação relacionada aos Painéis publicados pelo DEPGE
 
 ## 🔗 Links úteis
 
