@@ -1,4 +1,4 @@
-# 📊 Painéis e Indicadores — TJPA
+# 📊 Indicadores e Dados Abertos — TJPA
 
 Repositório público do **Departamento de Planejamento, Gestão e Estatística (DEPGE) do Tribunal de Justiça do Pará (TJPA)** 
 contendo a documentação dos Indicadores institucionais, além da hospedagem de Dados Abertos.
